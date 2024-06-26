@@ -1,5 +1,5 @@
 <h1>This repo is a clone of NMIMS SAP</h1>
-<br><br><hr>
-<p>Link for it as follows: </p>
+<br><br>
+<p>Link for it as follows: </p><hr>
 <p>http://10.168.4.5:1000/login?02098e7dd3b02df6</p>
 <br>
